@@ -53,13 +53,13 @@ Estas instrucciones te guiarán para obtener una copia de este proyecto en funci
 Para obtener una copia local en funcionamiento, sigue estos pasos.
 
 ```bash
-git clone git@github.com:brayandiazc/InforcapHouse.git
+git clone git@github.com:brayandiazc/inforcap-house-rails.git
 ```
 
 Ingresa a la carpeta del proyecto
 
 ```bash
-cd InforcapHouse
+cd inforcap-house-rails
 ```
 
 Con estos simples pasos ya estas listo para comenzar a desarrollar.
@@ -105,7 +105,7 @@ rails s
 
 ## Despliegue 📦
 
-Para el despliegue hare uso de [Heroku](https://www.heroku.com/), una plataforma como servicio de computación en la nube que soporta distintos lenguajes de programación. Las instrucciones para el despliegue se encuentran en la siguiente archivo: [Despliegue](assets/README.md)
+Para el despliegue hare uso de [Heroku](https://www.heroku.com/), una plataforma como servicio de computación en la nube que soporta distintos lenguajes de programación. Las instrucciones para el despliegue se encuentran en: [Convención de despliegue](docs/conventions/deploy.md)
 
 ## Construido Con 🛠️
 
@@ -119,7 +119,7 @@ Herramientas utilizadas para crear el proyecto:
 
 ## Soporte
 
-Si tienes algún problema o sugerencia, por favor abre un problema [aquí](https://github.com/brayandiazc/Aprendiendo-RubyOnRails/issues).
+Si tienes algún problema o sugerencia, por favor abre un problema [aquí](https://github.com/brayandiazc/inforcap-house-rails/issues).
 
 ## Roadmap
 
@@ -137,7 +137,7 @@ Estoy usando [Git](https://git-scm.com) para el versionado.
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia MIT - ve el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia MIT - ve el archivo [LICENSE](LICENSE) para detalles
 
 ## Expresiones de Gratitud 🎁
 
