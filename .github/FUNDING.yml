@@ -1,0 +1,8 @@
+# Configura los canales de patrocinio que aparecen en tu repositorio.
+# Borra los que no uses. Documentación:
+# https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+
+github: brayandiazc
+# ko_fi: usuario
+# patreon: usuario
+# custom: ["https://ejemplo.com/donar"]
