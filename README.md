@@ -32,6 +32,16 @@ Aquí es donde entras tú 😊. Tu desafío es presentar una propuesta de desarr
 
 El cliente toma la decisión y... ¡Felicidades! 🎉 Has ganado el proyecto. Recibes un anticipo y ahora puedes empezar a trabajar en el proyecto. Recuerda, necesitas tener conocimientos previos de frontend (HTML, CSS, JavaScript, Bootstrap) y backend (PostgreSQL, Ruby, Ruby on Rails, Heroku) para llevar a cabo este proyecto. ¡Vamos a empezar! 💪🚀
 
+## 📚 Documentación
+
+La documentación técnica y de producto vive en [`docs/`](docs/README.md):
+
+- [Arquitectura](docs/architecture/architecture.md) · [Stack](docs/architecture/stack.md) · [Modelo de datos](docs/architecture/database.md) · [Autenticación](docs/architecture/auth.md)
+- [Convenciones de trabajo](docs/conventions/README.md) · [Decisiones (ADRs)](docs/decisions/README.md)
+- [Modelo de negocio](docs/product/business-model.md) · [Roadmap](docs/product/roadmap.md)
+
+Consulta también: [CONTRIBUTING](CONTRIBUTING.md) · [SECURITY](SECURITY.md) · [CHANGELOG](CHANGELOG.md) · [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md)
+
 ## Visuales
 
 Capturas de pantalla, videos o GIFs que demuestran lo que hace el proyecto y cómo usarlo.
