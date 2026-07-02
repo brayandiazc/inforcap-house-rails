@@ -1,7 +1,6 @@
 # ==============================================================================
-# CI para el proyecto Rails (InforcapHouse).
-# Renómbralo a `ci.yml` para activarlo. Mientras tenga la extensión `.example`,
-# GitHub no lo ejecuta.
+# CI para el proyecto Rails (InforcapHouse): lint -> tests -> build de assets.
+# Se ejecuta en cada push y PR a `main`.
 # ==============================================================================
 
 name: CI
